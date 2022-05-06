@@ -1,0 +1,6 @@
+2022/01/12;Viaggio;qwerty;50
+2022/04/12;Altro;qwerty;1233.4
+2022/05/12;Viaggio;qwerty;325
+2022/05/12;Alloggio;qwerty;23
+2022/07/12;Vitto;qwerty;654
+2022/11/12;Altro;qwerty;2753
