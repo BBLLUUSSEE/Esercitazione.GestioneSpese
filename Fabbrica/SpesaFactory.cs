@@ -8,7 +8,7 @@ namespace GestioneSpese.Factory
 {
     public class SpesaFactory
     {
-        public ISpesa GetVehicle(string descrizionerimborso)
+        public ISpesa GetSpesa(string descrizionerimborso)
         {
             ISpesa spesa = null;
             
